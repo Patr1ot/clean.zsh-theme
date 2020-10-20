@@ -3,7 +3,7 @@
 Fork [oh-my-zsh theme](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#clean) added only host.
 
 ## Preview
-![Preview](http://raw.github.com/Patr1ot/clean.zsh-theme/master/img/preview.png)
+![Preview](https://raw.githubusercontent.com/Patr1ot/clean.zsh-theme/main/img/preview.png)
 
 ## Installing
 
